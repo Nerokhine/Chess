@@ -1,2 +1,3 @@
-CS246 Assignment.
+CS246 Final Project.
+
 Source code available upon request.
